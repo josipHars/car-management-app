@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CarManagement.Api/CarManagement.Api.csproj" />
+  <Project Path="CarManagement.Core/CarManagement.Core.csproj" />
+  <Project Path="CarManagement.Data/CarManagement.Data.csproj" />
+</Solution>
